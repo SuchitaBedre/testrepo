@@ -1,0 +1,14 @@
+git status
+git add
+git add .
+git commit -m 
+git config --global user.name or user.email
+git push 
+git pull
+git clone
+git checkout 
+git branch 
+git merge
+git rebase
+git log
+git diff
